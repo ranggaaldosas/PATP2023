@@ -24,5 +24,5 @@ int main()
         printf("%s %d %.2f\n", mhs[i].nama, mhs[i].nim, mhs[i].ipk);
     }
 
-      return 0;
+    return 0;
 }
